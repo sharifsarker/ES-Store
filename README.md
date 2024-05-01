@@ -91,7 +91,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact Us
 
-If you have any questions, feedback, or suggestions, please feel free to [contact me](mailto:sharifsarker683@example.com).
+If you have any questions, feedback, or suggestions, please feel free to [contact me](sharifsarker683@example.com).
 
 Thank you for visiting the ES Store GitHub repository!
 
